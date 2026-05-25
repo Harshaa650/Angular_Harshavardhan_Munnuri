@@ -373,27 +373,3 @@ For issues or questions:
 2. Review console errors (F12)
 3. Check component logic in src/app/
 4. Verify API endpoint accessibility
-
-## 📄 License
-
-This project is for educational purposes.
-
-## 👨‍💻 Author
-
-Created as an Angular learning project - May 2026
-
----
-
-**Happy Coding! 🚀**
-
-For more information, see the other documentation files in the project root.
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
